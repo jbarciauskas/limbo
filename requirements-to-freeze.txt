@@ -24,3 +24,6 @@ tox
 
 # banner plugin
 pyfiglet
+
+# mtg
+mtgslack
